@@ -10,3 +10,4 @@ TPL Discovery from the Local Repository requires a large Local database, and Lib
 About Groundtruth:
 We construct a ground truth base of 2800 application-library pairs, covering 300 applications and more than 6000 TPLs, which can be used to evaluate the of the TPL detection approaches.
 300 apps have been included in 300.zip and groundtruth list is in 2800groundtruth.txt
+we also construct another ground base of 14233 application-library pairs, covering 1000 applications and more than 12000 TPLs.
